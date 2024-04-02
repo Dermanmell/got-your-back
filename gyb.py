@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#dermansaigudin@gmail.com
+
 #
 # Got Your Back
 #
